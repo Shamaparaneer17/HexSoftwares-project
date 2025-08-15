@@ -1,2 +1,2 @@
 
-This project was completed as part of my online internship at Hex Softwares.
+This project was completed as a part of my online internship at Hex Softwares.
